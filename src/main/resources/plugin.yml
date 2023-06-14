@@ -1,0 +1,7 @@
+name: CAPI
+version: '${project.version}'
+main: connoriffy.capi.CAPI
+api-version: 1.20
+authors: [ Connorcogged ]
+description: An API used for my MC plugins
+website: github.connorcogged.com
